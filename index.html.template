@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Custom Nginx Page</title>
+</head>
+<body>
+    <h1>Welcome to My Custom Nginx Page!</h1>
+    <p>This page is served by a Dockerized Nginx server in environment: ${CURRENT_ENVIRONMENT}</p>
+</body>
+</html>
